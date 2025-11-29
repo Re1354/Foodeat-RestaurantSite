@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-# Foodeat Restaurant Site
-=======
 
-# BanksTown Restaurant Site
->>>>>>> e7e04bca65c206e2c3c98f30bc03775b954d4597
+# Foodeat Restaurant Site
 
 A modern, responsive web application for restaurant menu browsing and service
 highlights.
