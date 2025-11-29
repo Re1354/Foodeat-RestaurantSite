@@ -1,5 +1,5 @@
 
-# Foodeat Restaurant Site
+# BanksTown Restaurant Site
 
 A modern, responsive web application for restaurant menu browsing and service highlights.
 
@@ -116,5 +116,4 @@ foodeat-main/
 
 ---
 
-**Foodeat Restaurant Site** – Fast, beautiful, and easy to deploy for any restaurant or food business.
-# Foodeat-RestaurantSite
+**BanksTown Restaurant Site** – Fast, beautiful, and easy to deploy for any restaurant or food business.
