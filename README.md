@@ -1,31 +1,36 @@
-
 # Foodeat Restaurant Site
 
-A modern, responsive web application for restaurant menu browsing and service highlights.
+A modern, responsive web application for restaurant menu browsing and service
+highlights.
 
 ## Features
 
 ✅ **Menu Showcase**
+
 - Browse featured food items with images, ratings, and prices
 - Menu cards with descriptions and visual appeal
 - Responsive grid layout for all devices
 
 ✅ **Animated UI**
+
 - Hero section with restaurant branding
 - Banner and service highlights
 - Smooth scrolling navigation
 
 ✅ **Navigation**
+
 - Home and Menu pages
 - Easy navigation with React Router
 
 ✅ **Image Gallery**
+
 - Rich asset library for food and chef images
 - Visual storytelling for restaurant events and staff
 
 ## Tech Stack
 
 ### Frontend
+
 - **React 18** – UI library
 - **React Router DOM** – Routing
 - **React Icons** – Icon library
@@ -34,12 +39,14 @@ A modern, responsive web application for restaurant menu browsing and service hi
 - **Vite** – Fast build tool
 
 ### No Backend
+
 - Static site, no authentication or database
 - All data and images are local
 
 ## Installation
 
 ### Prerequisites
+
 - Node.js (v14 or higher)
 
 ### Setup
@@ -97,7 +104,8 @@ foodeat-main/
 
 ## Screenshots
 
-> Add screenshots of your homepage, menu, and service sections here for best results!
+> Add screenshots of your homepage, menu, and service sections here for best
+> results!
 
 ## Security
 
@@ -106,5 +114,7 @@ foodeat-main/
 
 ---
 
-**Foodeat Restaurant Site** – Fast, beautiful, and easy to deploy for any restaurant or food business.
+**Foodeat Restaurant Site** – Fast, beautiful, and easy to deploy for any
+restaurant or food business.
+
 # Foodeat-RestaurantSite
