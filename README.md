@@ -96,8 +96,19 @@ foodeat-main/
 3. **Navigate**: Use navbar to switch between pages
 
 ## Screenshots
+<img width="1600" height="692" alt="image" src="https://github.com/user-attachments/assets/25eed407-6d5a-448a-9778-b83ea6a9c0e0" />
+<img width="1600" height="672" alt="image" src="https://github.com/user-attachments/assets/64dd85cb-d80f-4dfc-b76d-3360b755fdc2" />
+<img width="1600" height="703" alt="image" src="https://github.com/user-attachments/assets/19ef2fe9-2cf8-483a-b82f-c57d0bbca26c" />
+<img width="1240" height="835" alt="image" src="https://github.com/user-attachments/assets/50905cc0-9a37-4b35-a26f-650e9cde651f" />
+<img width="1600" height="582" alt="image" src="https://github.com/user-attachments/assets/bc2a296c-2d37-4757-beff-48b14e4dfa51" />
+<img width="1600" height="696" alt="image" src="https://github.com/user-attachments/assets/17cc9ab1-c2ba-41fd-868b-18652053d935" />
+<img width="1600" height="725" alt="image" src="https://github.com/user-attachments/assets/1878488c-c1e4-4e86-ad60-0d36fda8087e" />
 
-> Add screenshots of your homepage, menu, and service sections here for best results!
+
+
+
+
+
 
 ## Security
 
