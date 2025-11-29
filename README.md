@@ -1,5 +1,5 @@
 
-# Foodeat Restaurant Site
+# BanksTown Restaurant Site Restaurant Site
 
 A modern, responsive web application for restaurant menu browsing and service
 highlights.
@@ -112,16 +112,6 @@ foodeat-main/
 <img width="1600" height="725" alt="image" src="https://github.com/user-attachments/assets/1878488c-c1e4-4e86-ad60-0d36fda8087e" />
 
 
-
-
-
-
-<<<<<<< HEAD
-> Add screenshots of your homepage, menu, and service sections here for best
-> results!
-=======
->>>>>>> e7e04bca65c206e2c3c98f30bc03775b954d4597
-
 ## Security
 
 - No authentication or sensitive data
@@ -129,11 +119,5 @@ foodeat-main/
 
 ---
 
-<<<<<<< HEAD
-**Foodeat Restaurant Site** – Fast, beautiful, and easy to deploy for any
-restaurant or food business.
-
-# Foodeat-RestaurantSite
-=======
 **BanksTown Restaurant Site** – Fast, beautiful, and easy to deploy for any restaurant or food business.
->>>>>>> e7e04bca65c206e2c3c98f30bc03775b954d4597
+
