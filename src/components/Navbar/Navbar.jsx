@@ -1,20 +1,20 @@
-import React, { useState } from "react";
-import { Link, useLocation } from "react-router-dom";
-import { FiMenu, FiX } from "react-icons/fi"; // Icon from react-icons
+import React, { useState } from 'react';
+import { Link, useLocation } from 'react-router-dom';
+import { FiMenu, FiX } from 'react-icons/fi'; // Icon from react-icons
 
 const Navbar = ({ onHomeClick, onAboutClick, onContactClick }) => {
   const location = useLocation();
   const [menuOpen, setMenuOpen] = useState(false);
 
-  const handleLinkClick = (handler) => {
-    if (location.pathname === "/" && handler) {
+  const handleLinkClick = handler => {
+    if (location.pathname === '/' && handler) {
       handler();
     }
     setMenuOpen(false); // Close menu on click
   };
 
   return (
-    <div className="py-4 lg:py-6 fixed top-0 left-0 w-full bg-white/30 dark:bg-black/30 backdrop-blur-md z-50">
+    <div className="py-4 lg:py-6 fixed top-0 left-0 w-full bg-white/30 backdrop-blur-md z-50">
       <div className="container flex justify-between items-center">
         {/* Logo */}
         <p className="text-3xl lg:text-4xl font-semibold">
