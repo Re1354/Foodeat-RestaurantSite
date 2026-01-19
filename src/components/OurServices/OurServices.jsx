@@ -1,5 +1,5 @@
-import React from "react";
-import { FaFacebookF, FaInstagram, FaTwitter } from "react-icons/fa";
+import React from 'react';
+import { FaFacebookF, FaInstagram, FaTwitter } from 'react-icons/fa';
 
 const OurServices = () => {
   return (
@@ -15,74 +15,73 @@ const OurServices = () => {
         <div className="bg-gray-600/15 p-8 rounded-xl shadow-md">
           <h3 className="text-2xl font-semibold mb-6">Book a Table</h3>
           <form
-        action="https://formspree.io/f/manjzlad"
-        method="POST"
-        className="space-y-6"
-      >
-        <div className="flex flex-col md:flex-row gap-4">
-          <input
-            type="text"
-            name="name"
-            placeholder="Full Name"
-            required
-            className="w-full p-3 border bg-white/70 dark:bg-white/5 border-gray-300 rounded-lg focus:outline-none"
-          />
-          <input
-            type="email"
-            name="email"
-            placeholder="Email Address"
-            required
-            className="w-full p-3 border bg-white/70 dark:bg-white/5 border-gray-300 rounded-lg focus:outline-none "
-          />
-        </div>
+            action="https://formspree.io/f/manjzlad"
+            method="POST"
+            className="space-y-6"
+          >
+            <div className="flex flex-col md:flex-row gap-4">
+              <input
+                type="text"
+                name="name"
+                placeholder="Full Name"
+                required
+                className="w-full p-3 border bg-white/70 dark:bg-white/5 border-gray-300 rounded-lg focus:outline-none"
+              />
+              <input
+                type="email"
+                name="email"
+                placeholder="Email Address"
+                required
+                className="w-full p-3 border bg-white/70 dark:bg-white/5 border-gray-300 rounded-lg focus:outline-none "
+              />
+            </div>
 
-        <div className="flex flex-col md:flex-row gap-4">
-          <input
-            type="tel"
-            name="phone"
-            placeholder="Phone Number"
-            required
-            className="w-full p-3 bg-white/70 dark:bg-white/5 border border-gray-300 rounded-lg focus:outline-none "
-          />
-          <input
-            type="date"
-            name="date"
-            required
-            className="w-full p-3 bg-white/70 dark:bg-white/5 border border-gray-300 rounded-lg focus:outline-none"
-          />
-        </div>
+            <div className="flex flex-col md:flex-row gap-4">
+              <input
+                type="tel"
+                name="phone"
+                placeholder="Phone Number"
+                required
+                className="w-full p-3 bg-white/70 dark:bg-white/5 border border-gray-300 rounded-lg focus:outline-none "
+              />
+              <input
+                type="date"
+                name="date"
+                required
+                className="w-full p-3 bg-white/70 dark:bg-white/5 border border-gray-300 rounded-lg focus:outline-none"
+              />
+            </div>
 
-        <div className="flex flex-col md:flex-row gap-4">
-          <input
-            type="time"
+            <div className="flex flex-col md:flex-row gap-4">
+              <input
+                type="time"
                 name="time"
-            required
-            className="w-full p-3 bg-white/70 dark:bg-white/5 border border-gray-300 rounded-lg focus:outline-none "
-          />
-          <input
-            type="number"
-            name="guests"
-            placeholder="Number of Guests"
-            required
-            className="w-full p-3 bg-white/70 dark:bg-white/5 border border-gray-300 rounded-lg focus:outline-none "
-          />
-        </div>
+                required
+                className="w-full p-3 bg-white/70 dark:bg-white/5 border border-gray-300 rounded-lg focus:outline-none "
+              />
+              <input
+                type="number"
+                name="guests"
+                placeholder="Number of Guests"
+                required
+                className="w-full p-3 bg-white/70 dark:bg-white/5 border border-gray-300 rounded-lg focus:outline-none "
+              />
+            </div>
 
-        <textarea
-          name="message"
-          placeholder="Additional Notes (Optional)"
-          rows="4"
-          className="w-full p-3 bg-white/70 dark:bg-white/5 border border-gray-300 rounded-lg focus:outline-none "
-        ></textarea>
+            <textarea
+              name="message"
+              placeholder="Additional Notes (Optional)"
+              rows="4"
+              className="w-full p-3 bg-white/70 dark:bg-white/5 border border-gray-300 rounded-lg focus:outline-none "
+            ></textarea>
 
-        <button
-          type="submit"
-          className="w-full bg-primary text-white py-3 rounded-lg font-semibold hover:bg-primary-dark transition"
-        >
-          Submit Reservation
-        </button>
-      </form>
-
+            <button
+              type="submit"
+              className="w-full bg-primary text-white py-3 rounded-lg font-semibold hover:bg-primary-dark transition"
+            >
+              Submit Reservation
+            </button>
+          </form>
         </div>
 
         {/* Contact Info & Map */}
@@ -90,36 +89,44 @@ const OurServices = () => {
           {/* Contact Info */}
           <div>
             <h3 className="text-2xl font-semibold mb-4">Contact Information</h3>
-            <p><strong>Phone:</strong> <a href="tel:+8801234567890">+880 1234-567-890</a></p>
-            <p><strong>Email:</strong> <a href="mailto:bankstown@restaurant.com">bankstown@restaurant.com</a></p>
+            <p>
+              <strong>Phone:</strong>{' '}
+              <a href="tel:+8801234567890">+880 1234-567-890</a>
+            </p>
+            <p>
+              <strong>Email:</strong>{' '}
+              <a href="mailto:bankstown@restaurant.com">
+                bankstown@restaurant.com
+              </a>
+            </p>
             <div className="flex gap-4 mt-4 text-2xl">
-  <a
-    href="https://facebook.com/yourpage"
-    target="_blank"
-    rel="noopener noreferrer"
-    className="text-blue-600 hover:scale-110 transition-transform"
-  >
-    <FaFacebookF />
-  </a>
+              <a
+                href=""
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 hover:scale-110 transition-transform"
+              >
+                <FaFacebookF />
+              </a>
 
-  <a
-    href="https://instagram.com/yourpage"
-    target="_blank"
-    rel="noopener noreferrer"
-    className="text-pink-600 hover:scale-110 transition-transform"
-  >
-    <FaInstagram />
-  </a>
+              <a
+                href="https://instagram.com/yourpage"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-pink-600 hover:scale-110 transition-transform"
+              >
+                <FaInstagram />
+              </a>
 
-  <a
-    href="https://twitter.com/yourpage"
-    target="_blank"
-    rel="noopener noreferrer"
-    className="text-sky-500 hover:scale-110 transition-transform"
-  >
-    <FaTwitter />
-  </a>
-</div>
+              <a
+                href="https://twitter.com/yourpage"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-sky-500 hover:scale-110 transition-transform"
+              >
+                <FaTwitter />
+              </a>
+            </div>
           </div>
 
           {/* Location Map */}
